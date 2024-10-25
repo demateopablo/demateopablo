@@ -4,11 +4,11 @@
 ### 😎 About Me
 • I am 33 years old and I am from Tres Arroyos, Buenos Aires, Argentina. </br>
 • I am currently studying the career of Full Stack Web Developer.
-
+<!---
 ## 🛠 Skills
 
 Comming soon!
-<!---
+
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
