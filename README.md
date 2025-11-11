@@ -3,6 +3,10 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Building+smarter+systems...;Automating+what+matters...;Learning+and+improving+every+day..."/>
 
+<picture>
+  <img src="https://raw.githubusercontent.com/demateopablo/demateopablo/output/snake.svg" alt="Snake animation" />
+</picture>
+
 ---
 
 ### 😎 About Me
@@ -69,9 +73,3 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/pablodemateo/) or righ
 ---
 
 ⭐ *"Automation isn’t just about speed — it’s about doing things better."*
-
----
-
-<picture>
-  <img src="https://raw.githubusercontent.com/demateopablo/demateopablo/output/snake.svg" alt="Snake animation" />
-</picture>
