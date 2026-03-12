@@ -1,5 +1,5 @@
 # 👋 Hey there! I'm Pablo Demateo 🚀  
-### Process Automation & AI Developer | Full Stack Student | Always learning
+### AI Backend Developer | Automation & LLM Integrations | Full Stack Student | Always learning
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Building+smarter+systems...;Automating+what+matters...;Learning+and+improving+every+day..."/>
 
@@ -10,7 +10,7 @@
 ---
 
 ### 😎 About Me
-- I'm 34 years old and based in **Tres Arroyos, Buenos Aires, Argentina**.  
+- Based in **Tres Arroyos, Buenos Aires, Argentina**.  
 - Currently studying to become a **Full Stack Web Developer**.  
 - Working as a **Process and Automation Analyst**, collaborating on **AI-driven backend solutions**.  
 - Passionate about **automation**, **artificial intelligence**, and **human-centered systems** that improve efficiency and experience.  
@@ -18,10 +18,10 @@
 ---
 
 ### 💡 What I'm working on
-- Developing **automated workflows** that connect data, logic, and decision layers.  
-- Exploring **AI orchestration** and natural-language automation for smarter business processes.  
-- Creating **interactive visualizations and interfaces** with modern web technologies.  
-- Constantly learning and experimenting to make technology more intuitive and adaptive.  
+- Building backend services with **Python and FastAPI**.
+- Integrating **LLMs and AI assistants** into real-world workflows.
+- Developing **automation tools and API integrations**.
+- Expanding my **full-stack development skills**.
 
 ---
 
