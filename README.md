@@ -11,7 +11,7 @@
 
 ### 😎 About Me
 - Based in **Tres Arroyos, Buenos Aires, Argentina**.  
-- Currently studying to become a **Full Stack Web Developer**.  
+- Graduated as a **Full Stack Web Developer**.
 - Working as a **Process and Automation Analyst**, collaborating on **AI-driven backend solutions**.  
 - Passionate about **automation**, **artificial intelligence**, and **human-centered systems** that improve efficiency and experience.  
 
@@ -42,6 +42,7 @@
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3&logoColor=1572B6)
